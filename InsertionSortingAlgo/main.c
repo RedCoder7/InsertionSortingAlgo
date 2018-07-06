@@ -1,4 +1,4 @@
-//This code is an implementation of insertion sort.
+//dsffsfThis code is an implementation of insertion sort.
 #include <stdio.h>
 void pushSort(int a[], int num,int prev)
 {
